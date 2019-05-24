@@ -21,6 +21,7 @@ A responsive slideshow that allow users to cycle through elements (images).
 ## Credits
 
 -W3School (website)
+-Travery Media (Youtube)
 
 ## License
 

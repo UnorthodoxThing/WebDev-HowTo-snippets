@@ -21,14 +21,3 @@ For an equilateral triangle it's worth pointing out that the height is 86.6% of 
 -Traversy Media [Full Screen Image Slider With HTML, CSS & JS](https://youtu.be/7ZO2RTMNSAY)
 
 -CSS Tricks [CSS Triangle](https://css-tricks.com/snippets/css/css-triangle/)
-
-Hi Brad! Love your tutorials! At 12:34 I wanted to add you can vertically center
-the arrow class with the following code - I think that'll be more responsive:
-
-position: absolute;
-top: 50%;
-transform: translate(0, -50%);
-
-instead of using "margin-top".
-
-Keep up the great work!

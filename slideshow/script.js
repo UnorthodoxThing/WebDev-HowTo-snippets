@@ -11,16 +11,6 @@ function reset() {
   }
 }
 
-// let reset = sliderImages.forEach(function(element) {
-//   element.style.display = 'none';
-// })
-
-// function reset() {
-//   for(let i = 0; i< sliderImages.length; i++) {
-//     sliderImages[i].style.display = 'none';
-//   }
-// }
-
 // Start the slide
 function init() {
   reset();

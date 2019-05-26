@@ -1,6 +1,6 @@
 # Slideshow
 
-A responsive fullscreen slideshow that allow users to cycle through elements (images).
+A responsive fullscreen slideshow that allow users to cycle through their images.
 
 ## Keynotes
 
@@ -12,7 +12,7 @@ The idea is a box with zero width and height. The actual width and height of the
 
 Dave Everitt writes in:
 
-For an equilateral triangle it's worth pointing out that the height is 86.6% of the width so (border-left-width + border-right-width) * 0.866% = border-bottom-width
+> For an equilateral triangle it's worth pointing out that the height is 86.6% of the width so (border-left-width + border-right-width) * 0.866% = border-bottom-width
 
 ## Credits
 

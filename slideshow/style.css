@@ -36,6 +36,10 @@ body, #slider, .wrap, .slide-content {
   background-image: url('img/img3.svg');
 }
 
+.slide4 {
+  background-image: url('img/img4.svg');
+}
+
 .slide-content {
   display: flex;
   flex-direction: column;
@@ -61,14 +65,14 @@ body, #slider, .wrap, .slide-content {
 }
 
 #arrow-left {
-  border-width: 30px 40px 30px 0;
+  border-width: 3rem 4rem 3rem 0;
   border-color: transparent #fff transparent transparent;
   left: 0;
   margin-left: 3em;
 }
 
 #arrow-right {
-  border-width: 30px 0px 30px 40px;
+  border-width: 3rem 0px 3rem 4rem;
   border-color: transparent transparent transparent #fff;
   right: 0;
   margin-right: 3em;

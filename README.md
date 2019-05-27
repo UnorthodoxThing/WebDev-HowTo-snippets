@@ -12,7 +12,7 @@ A personal code exercise of code snippets for HTML, CSS and JavaScript.
 
 ## Slideshow
 
-A responsive slideshow that allow users to cycle through elements (images).
+A responsive fullscreen slideshow that allow users to cycle through their images by clicking allocated left and right arrow keys.
 
 ### Slideshow-Gallery
 

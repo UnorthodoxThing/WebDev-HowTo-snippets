@@ -16,7 +16,7 @@ A responsive fullscreen slideshow that allow users to cycle through their images
 
 ### Slideshow-Gallery
 
-...
+A responsive fullscreen slideshow that allow users to cycle through their images by clicking allocated left and right arrow keys WITH images preview-able on the bottom of the page.
 
 ## Credits
 
@@ -25,4 +25,4 @@ A responsive fullscreen slideshow that allow users to cycle through their images
 
 ## License
 
-License available under (MIT License)[https://github.com/UnorthodoxThing/WebDev-HowTo-snippets/blob/master/LICENSE]
+License available under [MIT License](https://github.com/UnorthodoxThing/WebDev-HowTo-snippets/blob/master/LICENSE)

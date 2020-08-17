@@ -7,8 +7,13 @@ A personal code exercise of code snippets for HTML, CSS and JavaScript.
 ### Menus
 
 ### Images
+* [Modal-Images](#Modal-Images)
 * [Slideshow](#Slideshow)
-* [Slideshow Gallery](#Slideshow-Gallery)
+* [Slideshow-Gallery](#Slideshow-Gallery)
+
+## Modal-Images
+
+- W3Schools (website) [How TO - Modal Images](https://www.w3schools.com/howto/howto_css_modal_images.asp)
 
 ## Slideshow
 
